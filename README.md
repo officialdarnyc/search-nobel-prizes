@@ -20,4 +20,4 @@ The project includes:
 ```bash
 git clone https://github.com/officialdarnyc/search-nobel-prizes.git
 cd search-nobel-prizes
-./startup.sh
+./start-up.sh
