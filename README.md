@@ -15,7 +15,7 @@ The project includes:
 - Docker
 - Docker Compose
 
-### Clone the Repository
+### Deploy the project
 
 ```bash
 git clone https://github.com/officialdarnyc/search-nobel-prizes.git
